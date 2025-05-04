@@ -17,13 +17,13 @@ This is a simple dictionary application implemented in Go. It uses BadgerDB to s
 1.  **Clone the repository:**
 
     ```
-    git clone <your_repository_url>
+    git clone git@github.com:axellelanca/dictionary-CLI.git
     ```
 
 2.  **Navigate to the project directory:**
 
     ```
-    cd <project_directory>
+    cd dictionary-CLI
     ```
 
 3.  **Run the main application:**
